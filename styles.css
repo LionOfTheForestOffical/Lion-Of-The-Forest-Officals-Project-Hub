@@ -7,3 +7,8 @@ body {
 .left {
     text-align: left;
 }
+
+.usc_logo {
+    height: auto;
+    width: 30%;
+}
