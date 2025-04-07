@@ -7,6 +7,6 @@
     "@vercel/speed-insights": "^1.2.0",
     "jose": "^6.0.10",
     "next.js": "^1.0.3",
-    "vercel": "^32.0.1"
+    "vercel": "^41.5.0"
   }
 }
